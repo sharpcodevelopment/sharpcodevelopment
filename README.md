@@ -19,7 +19,7 @@
 - 📚 **SOLID Prensipleri & Design Patterns** ile temiz kod yazmayı seviyorum
 - ⚙️ **Backend:** C#, ASP.NET Core API, MSSQL  
 - 🎨 **Frontend:** React, TailwindCSS  
-- 🛠 **Diğer:** Git & GitHub, REST API, Clean Code  
+- 🛠 **Diğer:** Git & GitHub, Clean Code  
 
 ---
 
@@ -28,9 +28,7 @@
   <a href="https://linkedin.com/in/sergen-alada%C4%9F-b27558251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/sharpcodevelopment" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
   <a href="mailto:sharpcodevelopment@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
