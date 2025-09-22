@@ -1,6 +1,6 @@
 <!-- ÜST BANNER  -->
 <p align="center">
-  <img src="[https://github.com/sharpcodevelopment/sharpcodevelopment/raw/main/assets/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQE57lBGLxtl7w/profile-displaybackgroundimage-shrink_350_1400/B4DZlyXzuCJIAY-/0/1758560469644?e=1761177600&v=beta&t=dyJZyKG7VcyA3QtDac0whkvu5SqZ3TpAspPfFNsdlJM)" alt="Sergen Aladağ - Full-Stack Developer" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE57lBGLxtl7w/profile-displaybackgroundimage-shrink_350_1400/B4DZlyXzuCJIAY-/0/1758560469644?e=1761177600&v=beta&t=dyJZyKG7VcyA3QtDac0whkvu5SqZ3TpAspPfFNsdlJM" alt="Sergen Aladağ - Full-Stack Developer" width="100%" />
 </p>
 
 
