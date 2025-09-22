@@ -1,40 +1,42 @@
 <!-- PROFIL BANNER -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sergen%20Aladağ&fontSize=50&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
-<h1 align="center">👋 Merhaba, ben Sergen</h1>
-<h3 align="center">💻 Yazılım Geliştirici | 🎯 C# | ⚡ React | 📱 Flutter</h3>
-
----
-
-### 🚀 Hakkımda
-- 🌱 Şu anda **Clean Architecture & Design Patterns** öğreniyorum  
-- 🔭 Üzerinde çalıştığım proje: **[Harika Bir Proje](https://github.com/KULLANICI_ADIN/PROJE_ADI)**  
-- 🎯 Hedefim: Fullstack Developer & Mobil Geliştirici  
-
----
-
-### 🛠 Teknolojiler
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Merhaba!+Ben+Sergen+%F0%9F%91%8B;C%23+ve+.NET+Core+Geliştiricisiyim;React+ve+Flutter+ile+Frontend+Seviyorum" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 İstatistiklerim
+## 🚀 Hakkımda  
+✨ Modern web & mobil uygulama geliştiriyorum  
+🎯 Şu anda **Clean Architecture ve Design Patterns** üzerine çalışıyorum  
+📌 İlgi alanlarım: Backend, Frontend, Mobil, AI Destekli Yazılım  
+
+---
+
+## 🛠 Teknolojiler  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,flutter,html,css,js,git,github,postgresql" />
 </p>
 
 ---
 
-### 🔗 Bana Ulaş
+## 📊 İstatistikler
 <p align="center">
-  <a href="mailto:mailadresin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kullaniciadın"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=KULLANICI_ADIN&theme=transparent&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Bana Ulaş  
+<p align="center">
+  <a href="mailto:mailadresin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kullaniciadın"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
