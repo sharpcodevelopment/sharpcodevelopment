@@ -1,6 +1,6 @@
 <!-- ÜST BANNER -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/sharpcodevelopment/sharpcodevelopment/blob/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <!-- YAZI ANİMASYONU -->
@@ -10,56 +10,56 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Hakkımda
 - 🎯 **Full-Stack Web Developer** – Modern web uygulamaları geliştiriyorum.
 - 🏗 **Onion & Katmanlı Mimari** kullanarak sürdürülebilir projeler yazıyorum.
 - 📚 **SOLID Prensipleri & Design Patterns** ile temiz kod yazmayı seviyorum.
 - ⚙️ **Backend:** C#, ASP.NET Core API, MSSQL  
 - 🎨 **Frontend:** React, TailwindCSS  
-- 🛠 **Diğer:** Git & GitHub, Clean Code  
+- 🛠 **Diğer:** Git & GitHub, REST API, Clean Code  
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Bağlantılar
 <p align="center">
-  <a href="(https://www.linkedin.com/in/sergen-alada%C4%9F-b27558251/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://linkedin.com/in/sharpcodevelopment" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <a href="https://github.com/sharpcodevelopment" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="mailto:sergen@sharpcodevelopment.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,tailwind,js,html,css,git,github,visualstudio,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,tailwind,js,html,css,git,github,visualstudio,vscode,mssql" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sharpcodevelopment&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpcodevelopment&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Aktivite Grafiği
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharpcodevelopment&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Başarılarım
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sharpcodevelopment&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
