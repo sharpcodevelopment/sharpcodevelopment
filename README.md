@@ -1,6 +1,6 @@
-<!-- ÜST BANNER -->
+<!-- ÜST BANNER (SVG / Her zaman çalışan) -->
 <p align="center">
-  <img src="https://github.com/sharpcodevelopment/sharpcodevelopment/blob/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sharpcodevelopment/sharpcodevelopment/main/assets/banner.png" alt="Sergen Aladağ - Full-Stack Developer" width="100%" />
 </p>
 
 <!-- YAZI ANİMASYONU -->
@@ -11,25 +11,28 @@
 ---
 
 ## 🧑‍💻 Hakkımda
-- 🎯 **Full-Stack Web Developer** – Modern web uygulamaları geliştiriyorum.
-- 🏗 **Onion & Katmanlı Mimari** kullanarak sürdürülebilir projeler yazıyorum.
-- 📚 **SOLID Prensipleri & Design Patterns** ile temiz kod yazmayı seviyorum.
+- 🎯 **Full-Stack Web Developer** – Modern web uygulamaları geliştiriyorum
+- 🏗 **Onion & Katmanlı Mimari** ile sürdürülebilir projeler yazıyorum
+- 📚 **SOLID Prensipleri & Design Patterns** ile temiz kod yazmayı seviyorum
 - ⚙️ **Backend:** C#, ASP.NET Core API, MSSQL  
 - 🎨 **Frontend:** React, TailwindCSS  
 - 🛠 **Diğer:** Git & GitHub, REST API, Clean Code  
 
 ---
 
-## 🔗 Bağlantılar
+## 🔗 Sosyal Medya
 <p align="center">
-  <a href="https://linkedin.com/in/sharpcodevelopment" target="_blank">
+  <a href="https://linkedin.com/in/sergen-alada%C4%9F-b27558251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sharpcodevelopment" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:sergen@sharpcodevelopment.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sharpcodevelopment@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sharpcodev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -52,14 +55,7 @@
 
 ## 📈 Aktivite Grafiği
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharpcodevelopment&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Başarılarım
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharpcodevelopment&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharpcodevelopment&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
