@@ -1,8 +1,8 @@
 <!-- ÜST BANNER  -->
 <p align="center">
-  <h1>Sergen Aladağ</h1>
-  <h3>Full-Stack Web Developer | Onion Architecture & SOLID | C# | ASP.NET Core | React | MSSQL</h3>
+  <img src="[https://github.com/sharpcodevelopment/sharpcodevelopment/raw/main/assets/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQE57lBGLxtl7w/profile-displaybackgroundimage-shrink_350_1400/B4DZlyXzuCJIAY-/0/1758560469644?e=1761177600&v=beta&t=dyJZyKG7VcyA3QtDac0whkvu5SqZ3TpAspPfFNsdlJM)" alt="Sergen Aladağ - Full-Stack Developer" width="100%" />
 </p>
+
 
 
 
