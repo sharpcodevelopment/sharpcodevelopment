@@ -1,7 +1,9 @@
 <!-- ÜST BANNER  -->
 <p align="center">
-  <img src="https://github.com/sharpcodevelopment/sharpcodevelopment/raw/main/assets/banner.png" alt="Sergen Aladağ - Full-Stack Developer" width="100%" />
+  <h1>Sergen Aladağ</h1>
+  <h3>Full-Stack Web Developer | Onion Architecture & SOLID | C# | ASP.NET Core | React | MSSQL</h3>
 </p>
+
 
 
 <!-- YAZI ANİMASYONU -->
