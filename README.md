@@ -1,6 +1,6 @@
-<!-- ÜST BANNER (SVG / Her zaman çalışan) -->
+<!-- ÜST BANNER  -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharpcodevelopment/sharpcodevelopment/main/assets/banner.png" alt="Sergen Aladağ - Full-Stack Developer" width="100%" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjE4MCI+PHJlY3Qgd2lkdGg9IjEwMDAiIGhlaWdodD0iMTgwIiBmaWxsPSIjMDBmMmZlIi8+PHRleHQgeD0iNTAwIiB5PSI5MCIgZm9udC1zaXplPSI1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPkNlbnRlcmVkIEJhbm5lcjwvdGV4dD48L3N2Zz4=" alt="Sergen Aladağ - Full-Stack Developer" width="100%"/>
 </p>
 
 <!-- YAZI ANİMASYONU -->
