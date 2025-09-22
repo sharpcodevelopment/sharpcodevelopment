@@ -22,7 +22,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="[[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sergen-alada%C4%9F-b27558251/)](https://www.linkedin.com/in/sergen-alada%C4%9F-b27558251/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/sergen-alada%C4%9F-b27558251/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://github.com/your-username" target="_blank">
